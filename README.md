@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @7E2678562852987564757825
 - 👀 I’m interested in Web development and blockchain technologies
-- 🌱 I’m currently learning CosmWasm
-- 💞️ I’m looking to collaborate on blockchain projects
+- 🌱 I’m looking to collaborate on blockchain projects
 
 <!---
 7E2678562852987564757825/7E2678562852987564757825 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
